@@ -10,7 +10,8 @@
 
     <link rel="stylesheet" href="{{url('cssNew/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{url('cssNew/css/jquery-ui.css')}}">
-
+     	
+    <link rel='icon' href="{{url('favicon.ico')}}" type='image/x-icon' />
 
     <link rel="stylesheet" href="{{url('cssNew/css/jquery.fancybox.min.css')}}">
 
@@ -57,7 +58,7 @@
 
                         <nav class="site-navigation position-relative" role="navigation">
                             <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                                <li><a href="#portfolio-section" class="nav-link">Portfolio</a></li>
+                                <li><a href="#portfolio-section" class="nav-link">Portofolio</a></li>
                                 <li><a href="#clients-section" class="nav-link">Client</a></li>
                                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
                             </ul>

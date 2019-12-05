@@ -60,8 +60,11 @@
                 <h2 class="section-title">About Me</h2>
             </div>
             <div class="col-lg-14 order-2 order-lg-1">
-                <p>I am student at gunadarma university  My interest in Compoter Vision and Image Processing</p>
-                <p> I'm using Tensorflow,Tensorflow lite and Caffe2</p>
+                <p>I am student at Gunadarma university, My interest is in Computer Vision and Image Processing and
+                     I'm using Tensorflow,Tensorflow lite and Caffe2
+                </p>
+                <p> My hobbies is playing football and video games. And I'm an Arsenal fan.</p>
+                <p> My favorite Movies is Star Wars, my favorites TV series is Game of thrones and Mr.Robot</p>
             </div>
         </div>
         <p><a href="#contact-section" class="btn smoothscroll btn-primary">Contact Me</a></p>
